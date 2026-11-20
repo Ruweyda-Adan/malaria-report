@@ -4,8 +4,6 @@ This part extends the Power BI dashboard from describing incidence to quantifyin
 
 **Data:** World Bank WDI indicator `SH.MLR.INCD.P3`, incidence of malaria per 1,000 population *at risk*, national level, annual, 2000-2024. Countries: Kenya, Uganda, Tanzania, Rwanda, Burundi, South Sudan, Ethiopia and Somalia, with the Eastern & Southern Africa and Sub-Saharan Africa aggregates as benchmarks.
 
-**Code:** `malaria_analysis.py` (pandas, NumPy, SciPy, Matplotlib). From this folder, run `python malaria_analysis.py WB_WDI_SH_MLR_INCD_P3.csv`. Tables and figures are written to `outputs/`.
-
 ## Methods
 
 1. **Descriptives.** 2000 and 2024 values, percentage change, peak and lowest years.

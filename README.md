@@ -63,7 +63,7 @@ This project demonstrates how data analytics can be applied in a public health c
 * Identify high-risk populations
 * Support evidence-based decision-making
 
-It reflects the role of data science in **epidemiology and health research**, aligning with organizations such as KEMRI.
+
 
 
 ## Author
@@ -76,6 +76,4 @@ It reflects the role of data science in **epidemiology and health research**, al
 
 ---
 
-## ⭐ If you found this project useful
 
-Feel free to ⭐ the repository and share your feedback!

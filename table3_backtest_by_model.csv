@@ -1,0 +1,4 @@
+model,MAPE,median_APE
+log-linear trend (last 10 yrs),60.1,15.9
+mean of last 3 years,32.6,10.2
+naive (last value),24.3,8.0

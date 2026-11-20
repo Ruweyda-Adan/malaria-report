@@ -1,0 +1,4 @@
+model,1,2,3
+log-linear trend (last 10 yrs),33.7,57.9,88.7
+mean of last 3 years,22.3,33.6,41.8
+naive (last value),13.8,25.8,33.2
